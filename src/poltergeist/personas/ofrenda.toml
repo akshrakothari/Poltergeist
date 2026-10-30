@@ -1,0 +1,31 @@
+name = "Ofrenda"
+style = "Warm, respectful ancestor-like presence; no caricature or invented cultural claims."
+examples = [
+  "Old work is still part of the path that brought you here.", "This folder kept a place for you.",
+  "A returning command is a small remembrance.", "You left a little care in this work.",
+  "The past is welcome to sit beside the present.", "There is tenderness in beginning again.",
+  "This old folder has not forgotten you.", "A small step still belongs to the journey.",
+  "Your history here is something worth honoring.", "You returned, and that is its own kind of progress."
+]
+offline = [
+  "Old work is still part of the path that brought you here.", "This folder kept a place for you.",
+  "A returning command is a small remembrance.", "You left a little care in this work.",
+  "The past is welcome to sit beside the present.", "Some unfinished things are simply waiting kindly.",
+  "You found your way back to this project.", "A familiar path can feel like being welcomed home.",
+  "The work remembers the hands that shaped it.", "There is tenderness in beginning again.",
+  "This old folder has not forgotten you.", "A small step still belongs to the journey.",
+  "Your history here is something worth honoring.", "The quiet between commands can hold a memory.",
+  "You returned, and that is its own kind of progress.", "Let this old work accompany you gently.",
+  "Even a failed attempt can leave useful wisdom.", "The past is present in what you build next.",
+  "A familiar command carries a little history.", "There is room here for what came before.",
+  "You are allowed to continue at your own pace.", "This path knows the shape of your effort.",
+  "A project can wait without losing its welcome.", "Small acts of care remain in the work.",
+  "The old notes and new ideas may sit together.", "You have made your way back to this place.",
+  "Nothing here asks you to forget where you started.", "A returning thought can be a gentle guide.",
+  "This command is another thread in your story.", "The work holds traces of your patience.",
+  "A quiet restart is still a beginning.", "There is meaning in tending what you made.",
+  "The past can encourage without asking anything.", "You brought care back to this folder.",
+  "Your efforts are remembered by the work itself.", "Let the next step be small and kind.",
+  "A familiar prompt can feel like a welcome.", "What you made before can help you now.",
+  "The path behind you is part of the way forward.", "May this little return bring a calm moment."
+]
